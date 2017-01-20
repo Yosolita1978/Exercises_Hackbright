@@ -1,0 +1,3 @@
+env/
+*.pyc
+info_data.py
